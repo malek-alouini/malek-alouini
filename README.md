@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @malwini
 - 👀 I’m interested in software engineering, architecure and agile
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alouini.malek@gmail.com
 
 <!---
